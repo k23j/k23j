@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## LeetCode Problems:
+
+Repo: [https://github.com/k23j/leetcode](https://github.com/k23j/leetcode)
+
 ## Heres some of my github projects:
 
 ### Webdev
